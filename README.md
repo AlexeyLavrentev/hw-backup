@@ -26,6 +26,6 @@
 
 - <img width="599" height="140" alt="image" src="https://github.com/user-attachments/assets/103849a1-0e0a-4567-8908-99d27d9b9576" />
 
-Проверка записи в файле crontab:
+Проверка записи в файле crontab. Cron будет выполнять скрипт резервного копирования домашней директории в 03:00 каждый день:
 
 - <img width="339" height="83" alt="image" src="https://github.com/user-attachments/assets/07ea5b5a-8971-4156-8bb6-aa5ebb6d5f86" />
